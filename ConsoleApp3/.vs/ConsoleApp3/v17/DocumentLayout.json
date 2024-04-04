@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\OneDrive\\Masa\u00FCst\u00FC\\ConsoleApp3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76FABDA9-097B-4313-B3C3-F540DF8325D3}|ConsoleApp3.csproj|c:\\users\\asus\\onedrive\\masa\u00FCst\u00FC\\consoleapp3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76FABDA9-097B-4313-B3C3-F540DF8325D3}|ConsoleApp3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76FABDA9-097B-4313-B3C3-F540DF8325D3}|ConsoleApp3.csproj|c:\\users\\asus\\onedrive\\masa\u00FCst\u00FC\\consoleapp3\\models\\assistant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76FABDA9-097B-4313-B3C3-F540DF8325D3}|ConsoleApp3.csproj|solutionrelative:models\\assistant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76FABDA9-097B-4313-B3C3-F540DF8325D3}|ConsoleApp3.csproj|c:\\users\\asus\\onedrive\\masa\u00FCst\u00FC\\consoleapp3\\models\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76FABDA9-097B-4313-B3C3-F540DF8325D3}|ConsoleApp3.csproj|solutionrelative:models\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76FABDA9-097B-4313-B3C3-F540DF8325D3}|ConsoleApp3.csproj|c:\\users\\asus\\onedrive\\masa\u00FCst\u00FC\\consoleapp3\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76FABDA9-097B-4313-B3C3-F540DF8325D3}|ConsoleApp3.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Masa\u00FCst\u00FC\\ConsoleApp3\\Models\\Manager.cs",
+              "RelativeDocumentMoniker": "Models\\Manager.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Masa\u00FCst\u00FC\\ConsoleApp3\\Models\\Manager.cs",
+              "RelativeToolTip": "Models\\Manager.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T02:43:52.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Masa\u00FCst\u00FC\\ConsoleApp3\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Masa\u00FCst\u00FC\\ConsoleApp3\\Models\\Employee.cs",
+              "RelativeToolTip": "Models\\Employee.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T02:43:18.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Assistant.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Masa\u00FCst\u00FC\\ConsoleApp3\\Models\\Assistant.cs",
+              "RelativeDocumentMoniker": "Models\\Assistant.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Masa\u00FCst\u00FC\\ConsoleApp3\\Models\\Assistant.cs",
+              "RelativeToolTip": "Models\\Assistant.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T02:42:24.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Masa\u00FCst\u00FC\\ConsoleApp3\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Masa\u00FCst\u00FC\\ConsoleApp3\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T02:40:56.036Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
